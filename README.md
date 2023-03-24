@@ -1,5 +1,4 @@
 # MachineLearning
-## Update will be on every sunday wednesday saturday @10 pm(IST).
 MACHINE LEARNING &amp; DEEP LEARNING IN-PROGRESS
 
  <details open>
