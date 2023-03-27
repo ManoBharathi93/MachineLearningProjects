@@ -8,6 +8,10 @@ MACHINE LEARNING &amp; DEEP LEARNING IN-PROGRESS
 
  -  Predicting Movie Revenues
  -  Temperature Conversions
+
+
+B. Classification 
+- Comparison of XGBoost and Decision Tree Classifier
      
 </ul>
    
