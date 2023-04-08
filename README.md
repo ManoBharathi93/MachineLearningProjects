@@ -11,6 +11,7 @@ MACHINE LEARNING &amp; DEEP LEARNING IN-PROGRESS
 - [PIMA Indian Diabetes Prediction Predicting the onset of diabetes](https://github.com/ManoBharathi93/DiabetesPrediction)
 - [Classifciation of Flower species ](https://github.com/ManoBharathi93/Iris-Flower-Species.)
 - [Sonar Returns classification](https://github.com/ManoBharathi93/SonarReturns)
+- [Boston-House-Prediction](https://github.com/ManoBharathi93/Boston-House-Prediction)
      
 </ul>
    
