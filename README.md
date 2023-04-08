@@ -1,4 +1,4 @@
-# MachineLearning and Deep Learning
+# Machine Learning and Deep Learning Projects
 MACHINE LEARNING &amp; DEEP LEARNING IN-PROGRESS
 
  <details open>
