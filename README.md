@@ -1,4 +1,4 @@
-# MachineLearning
+# MachineLearning and Deep Learning
 MACHINE LEARNING &amp; DEEP LEARNING IN-PROGRESS
 
  <details open>
