@@ -12,7 +12,7 @@ MACHINE LEARNING &amp; DEEP LEARNING IN-PROGRESS
 - [Classifciation of Flower species ](https://github.com/ManoBharathi93/Iris-Flower-Species.)
 - [Sonar Returns classification](https://github.com/ManoBharathi93/SonarReturns)
 - [Boston-House-Prediction](https://github.com/ManoBharathi93/Boston-House-Prediction)
-- [Password Strength Classifier](https://github.com/ManoBharathi93/PasswordStrength)
+
      
 </ul>
    
