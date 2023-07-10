@@ -11,7 +11,8 @@ MACHINE LEARNING &amp; DEEP LEARNING IN-PROGRESS
 | 6.  [Sonar Returns classification](https://github.com/ManoBharathi93/SonarReturns) |
 | 7.  [Boston-House-Prediction](https://github.com/ManoBharathi93/Boston-House-Prediction) |
 | 8.  [Logistic Regression from scratch](https://github.com/ManoBharathi93/LogisticRegression) |
-| 9.  [Image classification with CIFAR-10 dataset](https://github.com/ManoBharathi93/Image-classification-with-CIFAR-10-dataset/tree/main)
+| 9.  [Image classification with CIFAR-10 dataset](https://github.com/ManoBharathi93/Image-classification-with-CIFAR-10-dataset/tree/main) |
+| 10. [Sign Language Detector](https://github.com/ManoBharathi93/Sign_Language_Detector/tree/main)
 
      
 
