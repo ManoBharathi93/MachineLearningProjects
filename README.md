@@ -1,5 +1,6 @@
 # Machine Learning and Deep Learning Projects
-MACHINE LEARNING &amp; DEEP LEARNING IN-PROGRESS
+MACHINE LEARNING &amp; DEEP LEARNING IN-PROGRESS 
+
 
 | Projects and Notebooks |
 |  -------------------- |
@@ -12,7 +13,8 @@ MACHINE LEARNING &amp; DEEP LEARNING IN-PROGRESS
 | 7.  [Boston-House-Prediction](https://github.com/ManoBharathi93/Boston-House-Prediction) |
 | 8.  [Logistic Regression from scratch](https://github.com/ManoBharathi93/LogisticRegression) |
 | 9.  [Image classification with CIFAR-10 dataset](https://github.com/ManoBharathi93/Image-classification-with-CIFAR-10-dataset/tree/main) |
-| 10. [Sign Language Detector](https://github.com/ManoBharathi93/Sign_Language_Detector/tree/main)
+| 10. [Sign Language Detector](https://github.com/ManoBharathi93/Sign_Language_Detector/tree/main) |
+| 11. [face_recognition](https://github.com/ManoBharathi93/face_recognition/tree/main) |
 
      
 
