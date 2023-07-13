@@ -15,7 +15,8 @@ MACHINE LEARNING &amp; DEEP LEARNING IN-PROGRESS
 | 9.  [Image classification with CIFAR-10 dataset](https://github.com/ManoBharathi93/Image-classification-with-CIFAR-10-dataset/tree/main) |
 | 10. [Sign Language Detector](https://github.com/ManoBharathi93/Sign_Language_Detector/tree/main) |
 | 11. [face_recognition](https://github.com/ManoBharathi93/face_recognition/tree/main) |
-
+| 12. [Music-Recommedation-System](https://github.com/ManoBharathi93/Music-Recommedation-System) |
+ 
      
 
  
