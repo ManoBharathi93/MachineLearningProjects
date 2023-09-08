@@ -16,6 +16,7 @@ MACHINE LEARNING &amp; DEEP LEARNING IN-PROGRESS
 | 10. [Sign Language Detector](https://github.com/ManoBharathi93/Sign_Language_Detector/tree/main) |
 | 11. [face_recognition](https://github.com/ManoBharathi93/face_recognition/tree/main) |
 | 12. [Music-Recommedation-System](https://github.com/ManoBharathi93/Music-Recommedation-System) |
+| 13. [Siamese Neural Network](https://github.com/ManoBharathi93/Siamese_neural_network/tree/main)
  
      
 
