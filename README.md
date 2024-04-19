@@ -18,7 +18,9 @@ MACHINE LEARNING &amp; DEEP LEARNING IN-PROGRESS
 | 12. [Music-Recommedation-System](https://github.com/ManoBharathi93/Music-Recommedation-System) |
 | 13. [Siamese Neural Network](https://github.com/ManoBharathi93/Siamese_neural_network/tree/main) |
 | 14. [CYBER-PHYSICAL FALSE DATA ATTACK DETECTION](https://github.com/ManoBharathi93/CPAD/tree/main) |
-| 15. [Line-Outage-Identification](https://github.com/ManoBharathi93/Line-Outage-Identification)
+| 15. [Line-Outage-Identification](https://github.com/ManoBharathi93/Line-Outage-Identification) |
+| 16. [Sentiment_Classifier](https://github.com/ManoBharathi93/Sentiment_Classifier) |
+| 17. [SEP-Former](https://github.com/ManoBharathi93/Speech_separation_transformer) |
  
      
 
